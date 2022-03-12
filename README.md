@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordanT25620
-- 👀 I currently work in Python, C/C++, Java, HTML/CSS, and Go.
+- 👀 I currently work in Python, C/C++, Java, HTML/CSS/JS, React, and Go.
 
 <!---
 JordanT25620/JordanT25620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
