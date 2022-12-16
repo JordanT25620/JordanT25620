@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @JordanT25620 (Jordan Treutel)
 - 👀 I currently work in Python, C/C++, Java, HTML/CSS/JS, React, and Go.
-- Currently taking CSCI 5560 (Database Management Systems) with Dr. Khem Poudel at MTSU.
