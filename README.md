@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JordanT25620 (Jordan Treutel)
+- 👋 Hi, I’m @JordanT25620
 - 👀 I currently work in Python, C/C++, Java, HTML/CSS/JS, React, and Go.
